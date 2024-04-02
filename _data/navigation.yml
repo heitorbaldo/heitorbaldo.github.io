@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Notes"
+    url: /notes/    
+
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Softwares"
+    url: /softwares/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -18,5 +21,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Projects"
+  #  url: /projects/
