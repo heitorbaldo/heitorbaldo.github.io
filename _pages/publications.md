@@ -9,3 +9,11 @@ author_profile: true
 
 * Directed Q-Analysis and Directed Higher-Order Adjacencies on Digraphs: A Quantitative Approach, 2024 (expected).
 * Quantifying Complexity on Graph Cellular Automata of Epileptic Brain Networks, 2024 (expected).
+
+
+
+## Master's Thesis and PhD Thesis
+
+* Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis. PhD Thesis. University of São Paulo, 2024 (expected).
+
+* [Álgebras de Clifford e de Cayley-Dickson](). Master's Thesis. University of Campinas, 2016.

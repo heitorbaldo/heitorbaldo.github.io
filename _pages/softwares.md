@@ -15,7 +15,6 @@ author_profile: true
 
 * DigplexQ.jl - Julia version of the DigplexQ Python package (Soon).
 
-## MATLAB Toolboxes
 
 ## Jupyter Notebooks
 
@@ -23,6 +22,7 @@ author_profile: true
 * Topics on Artificial Intelligence in Neuroimaging (notebooks) - These notebooks are a compilation of algorithms of deep learning models for the analysis of fMRI, EEG, and MEG data.
 
 ## Papers with Code
+
 
 ## Docker Container Images
 
