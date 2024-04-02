@@ -205,7 +205,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  notes:
+    output: true
+    permalink: /:collection/:path/
+  softwares:
     output: true
     permalink: /:collection/:path/
   talks:
