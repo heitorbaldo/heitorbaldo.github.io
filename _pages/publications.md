@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## In Preparation
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Directed Q-Analysis and Directed Higher-Order Adjacencies on Digraphs: A Quantitative Approach, 2024 (expected).
+* Quantifying Complexity on Graph Cellular Automata of Epileptic Brain Networks, 2024 (expected).

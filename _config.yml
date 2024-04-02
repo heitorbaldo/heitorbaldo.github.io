@@ -205,7 +205,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  notes:
+  adacemic_writings:
     output: true
     permalink: /:collection/:path/
   softwares:

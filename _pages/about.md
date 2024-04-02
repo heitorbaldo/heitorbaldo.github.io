@@ -14,12 +14,13 @@ My research consists of adapting advanced mathematical methods to study differen
 Research Interests
 ======
 
-* **Algebraic Geometry and Topology of Neural Codes.** Theory of combinatorial neural codes; neural rings; applications of oriented matroids on the theory of combinatorial neural codes; combinatorial neural codes from the perspective of tropical algebra and geometry.
-* **Graph Theory / Topological Data Analysis and Network Neuroscience.** Brain connectivity inference (PDC, DTF); graph theoretical analysis and topological data analysis of brain connectivity networks (functional and effective networks); Q-analysis and directed Q-analyis; cellular sheaves; hypergraphs.
-* **Complexity Science and Network Neuroscience.** Network complexity; graph cellular automata.
+* **(Tropical) Algebraic Geometry and Topology of Neural Codes.** Theory of combinatorial neural codes; neural rings; applications of oriented matroids on the theory of combinatorial neural codes; combinatorial neural codes from the perspective of tropical algebra and geometry.
+* **Graph Theory / Topological Data Analysis and Network Neuroscience.** Brain connectivity inference (PDC, DTF); graph theoretical analysis and topological data analysis of brain connectivity networks (functional and effective networks); Q-Analysis and directed Q-Analyis; cellular sheaves; hypergraphs.
+* **Complexity Science and Network Neuroscience.** Network complexity of brain networks; quantitative emergence; modeling dynamic brain networks through graph cellular automata.
+* **Applied Category Theoy on Neural Information and Cognition.** Category theory applied to the modeling of information neural networks and to the mathematical modeling of cognition.
 * **Natural/Artificial Neural Computation and AI in Neural Data Analysis.** Topological deep learning (graph and simplicial neural networks); reinforcement learning; Hebbian learning; associative memory in Hopfield networks; interplay between AI and neuroscience.
 * **Multiscale Brain Modeling.** AdS/Brain correspondence (brain MERA tensor networks); Multiscale tensor networks.
-* **Applied Category Theoy.** Cognition and AI.
+
 
 
 Master's Thesis and PhD Thesis
