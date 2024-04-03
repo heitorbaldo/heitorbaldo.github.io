@@ -11,6 +11,10 @@ author_profile: true
 * Quantifying Complexity on Graph Cellular Automata of Epileptic Brain Networks, 2024 (expected).
 
 
+## Books (drafts)
+
+* Topologia Algébrica Computacional (draft in portuguese).
+
 
 ## Master's Thesis and PhD Thesis
 
