@@ -208,7 +208,7 @@ collections:
   adacemic_writings:
     output: true
     permalink: /:collection/:path/
-  softwares:
+  software:
     output: true
     permalink: /:collection/:path/
   talks:
