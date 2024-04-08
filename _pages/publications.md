@@ -20,4 +20,4 @@ author_profile: true
 
 * Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis. PhD Thesis. University of São Paulo, 2024 (expected).
 
-* [Álgebras de Clifford e de Cayley-Dickson](). Master's Thesis. University of Campinas, 2016.
+* [Álgebras de Clifford e de Cayley-Dickson](/files/BaldoHeitor_MP.pdf). Master's Thesis. University of Campinas, 2016.
