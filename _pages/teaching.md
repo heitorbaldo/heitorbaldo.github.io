@@ -8,13 +8,13 @@ author_profile: true
 ## University of São Paulo (USP) 
 
 * MAE0330 - Multivariate Data Analysis (Spring 2021).\
-Teaching Assistant. [Notes on Sparse Multivariate Methods](/files/Sparse_Methods.pdf). 
+Teaching Assistant. ([program](), [Notes on Sparse Multivariate Methods](/files/Sparse_Multivariate_Methods.pdf)) 
 
 ## University of Campinas (UNICAMP) 
 
-* MA327 - Linear Algebra (Fall 2016).\
-Teaching Assistant. [Slides]() (Orthogonality; Gram-Schmidt Process). 
 * Complex-Valued Neural Networks (Minicourse, Winter 2017).\
-Lecturer. [Lecture notes](); [Slides](). 
+Lecturer. ([program](), [lecture notes](), [slides]()) 
 * Genetic Algorithms with Python (Minicourse, Spring 2016).\
-Lecturer. [Lecture notes](); [Slides]().
+Lecturer. ([program](), [lecture notes](), [slides]())
+* MA327 - Linear Algebra (Fall 2016).\
+Teaching Assistant. ([program](), [Gram-Schmidt Orthogonalization Process]())
