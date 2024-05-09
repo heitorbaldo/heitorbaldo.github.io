@@ -10,8 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Applied Mathematics, both from the [University of Campinas](https://www.unicamp.br/en). Currently, I'm a Ph.D. candidate in Mathematical Neuroscience at the [University of São Paulo](https://www5.usp.br/). 
-My research consists of adapting advanced mathematical methods to study different areas of neuroscience. More specifically, I am interested in how highly abstract and advanced fields of mathematics, such as abstract algebra, combinatorics, algebraic topology, algebraic geometry, discrete geometry, sheaf theory, graph theory, category theory, tropical algebra, and tropical geometry, can be useful in network neuroscience, neural coding, computational cognitive science, brain-computer interface (BCI), and theoretical / computational neuroscience in general. This includes the incorporation of artificial intelligence methods both in the analysis of neural data and in the study of the interplay between AI and neuroscience. Also, I am interested in multiscale brain modeling, mainly through the AdS/Brain correspondence. I've been applying some new mathematical methods to the study of neurological disorders, such as epilepsy and Alzheimer's disease, mainly from EEG and fMRI data. I am always looking for new ideas and possibilities.
+Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en). Currently, I'm a Ph.D. candidate in Bioinformatics (Mathematical Neuroscience) at the [University of São Paulo](https://www5.usp.br/). I have experience in the areas of mathematics, applied mathematics, computer science, and bioinformatics, with an emphasis on mathematical neuroscience and biological networks. More specifically, I am interested in the mathematical foundations of methods coming from various areas of pure and applied mathematics, such as combinatorics, algebraic topology and geometry, discrete geometry, graph theory, category theory, complex systems, and complexity science, and how these methods, together with probabilistic, statistical, and computational methods, can be useful in mathematical neuroscience and biological networks in general. 
 
 
 
@@ -21,18 +20,43 @@ My research consists of adapting advanced mathematical methods to study differen
 
 ## Research Interests
 
-* **(Tropical) Algebraic Geometry and Topology of Neural Codes.** Theory of combinatorial neural codes. Neural rings. Applications of oriented matroids on the theory of combinatorial neural codes. Combinatorial neural codes from the perspective of tropical algebra and geometry.
-* **Graph Theory / Topological Data Analysis and Network Neuroscience.** Brain connectivity inference (PDC, DTF). Graph theoretical analysis and topological data analysis of brain connectivity networks. Brain dynamics and Q-Analysis / directed Q-Analyis. Brain dynamics and cellular sheaves. Brain higher-order networks and hypergraphs.
-* **Complexity Science and Network Neuroscience.** Network complexity of brain networks. Quantitative emergence. Modeling dynamic brain networks through graph cellular automata.
-* **Applied Category Theory on Neural Information and Cognition.** Category theory applied to the modeling of information neural networks and to the mathematical modeling of cognition.
-* **Natural/Artificial Neural Computation and AI in Neural Data Analysis.** Topological, categorical, and geometric deep learning. Manifold Learning. Reinforcement learning. Hebbian learning. Associative memory in Hopfield networks. Interplay between AI and neuroscience. 
-* **Multiscale Brain Modeling.** AdS/Brain correspondence (brain MERA tensor networks). Multiscale tensor networks.
+### Mathematics and Applied Mathematics
+
+<!--  <span style="color:red">Graph Theory</span>.-->
+
+* **<span style="color:#52ADC8">Graph Theory.</span>** Quantitative graph theory. Spectral graph theory. Graph matching. Multilayer graphs. Dynamic graphs. Subgraph discovery. Hypergraphs.
+* **<span style="color:#52ADC8">Combinatorics and Discrete Geometry.</span>** Matroids. Oriented Matroids. Finite geometries. Geometric graph theory. Discrete curvatures. Polyhedral complexes.
+* **<span style="color:#52ADC8">Applied Algebraic Topology.</span>** Simplicial complexes. Simplicial homology. Path Homology. Persisent homology. Discrete Morse theory. Cellular sheaves. Q-Analysis.
+* **<span style="color:#52ADC8">Applied Algebraic Geometry.</span>** Neural rings and neural ideals. Gröbner bases. Hilbert schemes.
+* **<span style="color:#52ADC8">Tropical Algebra and Geometry.</span>** Tropical linear algebra. Tropical polynomials. Tropical varieties. Tropical polytopes.
+* **<span style="color:#52ADC8">Applied Category Theory.</span>** Categorification. Hypergraph categories. Monoidal categories and Operads.
+* **<span style="color:#52ADC8">Complexity Science.</span>** Complexity. Graph cellular automata. Quantitative emergence.
+
+
+### Artificial Intelligence
+
+
+* **<span style="color:#52ADC8">Machine Learning.</span>** Scientific machine learning. Topological, categorical, and geometric deep learning. Tensor networks. Recurrent neural networks. Reinforcement learning. Q-learning.
+
+
+### Mathematical Neuroscience
+
+* **<span style="color:#52ADC8">Neural Coding.</span>** Theory of combinatorial neural codes. Neural rings. Applications of oriented matroids on the theory of combinatorial neural codes. Combinatorial neural codes from the perspective of tropical algebra and geometry.
+* **<span style="color:#52ADC8">Network Neuroscience.</span>** Brain connectivity inference (PDC, DTF). Graph theoretical analysis and topological data analysis of brain connectivity networks. Brain dynamics and Q-Analysis / directed Q-Analyis. Brain dynamics and cellular sheaves. Brain higher-order networks and hypergraphs. Network complexity of brain networks. Modeling dynamic brain networks through graph cellular automata.
+* **<span style="color:#52ADC8">Neural Information and Cognition.</span>** Category theory applied to the modeling of information neural networks and to the mathematical modeling of cognition.
+* **<span style="color:#52ADC8">Natural/Artificial Neural Computation and AI in Neural Data Analysis.</span>** Topological, categorical, and geometric deep learning techniques applied in neural data analysis. Associative memory in Hopfield networks. Interplay between AI and neuroscience. 
+* **<span style="color:#52ADC8">Multiscale Brain Modeling.</span>** AdS/Brain correspondence (brain MERA tensor networks). Multiscale tensor networks.
+
+
+### Mathematical Biology
+
+* **<span style="color:#52ADC8">Biological Networks.</span>** Gene regulatory networks. Gene co-expression networks. Phylogenetic networks.
 
 
 ## Master's Thesis and PhD Thesis
 
 
-* Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis. PhD Thesis. University of São Paulo, 2024 (expected).
+* [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](files/BaldoHeitor_PhD_Thesis.pdf). PhD Thesis. University of São Paulo, 2024 (expected).
 
 * [Álgebras de Clifford e de Cayley-Dickson](/files/BaldoHeitor_MP.pdf). Master's Thesis. University of Campinas, 2016.
 

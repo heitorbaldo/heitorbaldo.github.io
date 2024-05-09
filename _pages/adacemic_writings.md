@@ -7,7 +7,9 @@ author_profile: true
 
 ## Notes and Unpublished Manuscripts
 
+
 * [Notes on Oriented Matroids and Tropical Oriented Matroids]() (notes, 2022).
+* [Simplicial Neural Networks for Directed Flag Complexes and Path Complexes]() (unpublished manuscript, 2022).
 * [Notes on Spectral Theory of Hypergraphs]() (notes, 2021).
 * [Topics in Clifford and Lie Algebras of Graphs]() (unpublished manuscript, 2020).
 
