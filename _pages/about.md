@@ -24,8 +24,8 @@ Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Appli
 
 <!--  <span style="color:red">Graph Theory</span>.-->
 
-* **<span style="color:#52ADC8">Graph Theory.</span>** Quantitative graph theory. Spectral graph theory. Graph matching. Multilayer graphs. Dynamic graphs. Subgraph discovery. Hypergraphs.
-* **<span style="color:#52ADC8">Combinatorics and Discrete Geometry.</span>** Matroids. Oriented Matroids. Finite geometries. Geometric graph theory. Discrete curvatures. Polyhedral complexes.
+* **<span style="color:#52ADC8">Graph Theory.</span>** Quantitative graph theory. Spectral graph theory. Topological and geometric graph theory. Graph matching. Multilayer graphs. Dynamic graphs. Subgraph discovery. Hypergraphs.
+* **<span style="color:#52ADC8">Combinatorics and Discrete Geometry.</span>** Matroids. Oriented Matroids. Finite geometries. Discrete curvatures. Polyhedral complexes.
 * **<span style="color:#52ADC8">Applied Algebraic Topology.</span>** Simplicial complexes. Simplicial homology. Path Homology. Persisent homology. Discrete Morse theory. Cellular sheaves. Q-Analysis.
 * **<span style="color:#52ADC8">Applied Algebraic Geometry.</span>** Neural rings and neural ideals. Gröbner bases. Hilbert schemes.
 * **<span style="color:#52ADC8">Tropical Algebra and Geometry.</span>** Tropical linear algebra. Tropical polynomials. Tropical varieties. Tropical polytopes.
