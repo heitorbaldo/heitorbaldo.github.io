@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en). Currently, I'm a Ph.D. candidate in Bioinformatics (Mathematical Neuroscience) at the [University of São Paulo](https://www5.usp.br/). I have experience in the areas of mathematics, applied mathematics, computer science, and bioinformatics, with an emphasis on mathematical neuroscience and biological networks. More specifically, I am interested in the mathematical foundations of methods coming from various areas of pure and applied mathematics, such as combinatorics, algebraic topology and geometry, discrete geometry, graph theory, category theory, complex systems, and complexity science, and how these methods, together with probabilistic, statistical, and computational methods, can be useful in mathematical neuroscience and biological networks in general. 
+Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en). Currently, I'm a Ph.D. candidate in Bioinformatics at the [University of São Paulo](https://www5.usp.br/). I have experience in the areas of mathematics, applied mathematics, computer science, and bioinformatics, with an emphasis on mathematical neuroscience and mathematical biology. More specifically, I am interested in the mathematical foundations of methods coming from various areas of pure and applied mathematics, such as combinatorics, algebraic topology and geometry, discrete geometry, graph theory, category theory, complex systems, and complexity science, and how these methods, together with probabilistic, statistical, and computational methods, can be useful in mathematical neuroscience and mathematical biology. 
 
 
 
@@ -44,13 +44,16 @@ Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Appli
 * **<span style="color:#52ADC8">Neural Coding.</span>** Theory of combinatorial neural codes. Neural rings. Applications of oriented matroids on the theory of combinatorial neural codes. Combinatorial neural codes from the perspective of tropical algebra and geometry.
 * **<span style="color:#52ADC8">Network Neuroscience.</span>** Brain connectivity inference (PDC, DTF). Graph theoretical analysis and topological data analysis of brain connectivity networks. Brain dynamics and Q-Analysis / directed Q-Analyis. Brain dynamics and cellular sheaves. Brain higher-order networks and hypergraphs. Network complexity of brain networks. Modeling dynamic brain networks through graph cellular automata.
 * **<span style="color:#52ADC8">Neural Information and Cognition.</span>** Category theory applied to the modeling of information neural networks and to the mathematical modeling of cognition.
-* **<span style="color:#52ADC8">Natural/Artificial Neural Computation and AI in Neural Data Analysis.</span>** Topological, categorical, and geometric deep learning techniques applied in neural data analysis. Associative memory in Hopfield networks. Interplay between AI and neuroscience. 
+* **<span style="color:#52ADC8">Natural/Artificial Neural Computation and AI in Neural Data Analysis.</span>** Topological, categorical, and geometric deep learning techniques applied in neural data analysis. Associative memory and Hopfield networks. Interplay between AI and neuroscience. 
 * **<span style="color:#52ADC8">Multiscale Brain Modeling.</span>** AdS/Brain correspondence (brain MERA tensor networks). Multiscale tensor networks.
 
 
 ### Mathematical Biology
 
-* **<span style="color:#52ADC8">Biological Networks.</span>** Gene regulatory networks. Gene co-expression networks. Phylogenetic networks.
+* **<span style="color:#52ADC8">Biological Networks.</span>** Gene regulatory networks. Gene co-expression networks. Phylogenetics networks. Biochemical reaction networks.
+
+* **<span style="color:#52ADC8">DNA/RNA-Related.</span>** Topological Data Analysis of RNA transcriptome. Modeling DNA and RNA mutations via graph theory and matroid theory. 
+
 
 
 ## Master's Thesis and PhD Thesis
