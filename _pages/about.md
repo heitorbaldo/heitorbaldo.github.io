@@ -42,7 +42,7 @@ Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Appli
 ### Mathematical Neuroscience
 
 * **<span style="color:#52ADC8">Neural Coding.</span>** Theory of combinatorial neural codes. Neural rings. Applications of oriented matroids on the theory of combinatorial neural codes. Combinatorial neural codes from the perspective of tropical algebra and geometry.
-* **<span style="color:#52ADC8">Network Neuroscience.</span>** Methods in brain connectivity inference (PDC, DTF). Graph theoretical analysis and topological data analysis of brain connectivity networks. Brain dynamics and Q-Analysis / directed Q-Analyis. Brain dynamics and cellular sheaves. Brain higher-order networks and hypergraphs. Network complexity of brain networks. Modeling dynamic brain networks through graph cellular automata.
+* **<span style="color:#52ADC8">Network Neuroscience.</span>** Methods in brain connectivity inference (PDC, DTF). Graph theoretical analysis and topological data analysis of brain connectivity networks. Brain dynamics and Q-Analysis / directed Q-Analysis. Brain dynamics and cellular sheaves. Brain higher-order networks and hypergraphs. Network complexity of brain networks. Modeling dynamic brain networks through graph cellular automata.
 * **<span style="color:#52ADC8">Neural Information and Cognition.</span>** Category theory applied to the modeling of information neural networks and to the mathematical modeling of cognition.
 * **<span style="color:#52ADC8">Natural/Artificial Neural Computation and AI in Neural Data Analysis.</span>** Topological, categorical, and geometric deep learning techniques applied in neural data analysis. Associative memory and Hopfield networks. Interplay between AI and neuroscience. 
 * **<span style="color:#52ADC8">Multiscale Brain Modeling.</span>** AdS/Brain correspondence (brain MERA tensor networks). Multiscale tensor networks.
@@ -50,7 +50,7 @@ Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Appli
 
 ### Mathematical Biology
 
-* **<span style="color:#52ADC8">Biological Networks.</span>** Gene regulatory networks. Gene co-expression networks. Phylogenetics networks. Biochemical reaction networks.
+* **<span style="color:#52ADC8">Biological Networks.</span>** Gene regulatory networks. Gene co-expression networks. Phylogenetics networks.
 
 * **<span style="color:#52ADC8">DNA/RNA-Related.</span>** Topological Data Analysis of RNA transcriptome. Modeling DNA and RNA mutations via graph theory and matroid theory. 
 
