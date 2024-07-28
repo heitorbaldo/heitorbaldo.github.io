@@ -13,7 +13,7 @@ My CV may be found [here](/files/cv.pdf), and my CV Lattes [here](http://lattes.
 
 ## Education
 
-* Ph.D. in Bioinformatics (Mathematical Neuroscience), University of São Paulo, 2024 (expected)
-* M.S. in Applied Mathematics, University of Campinas, 2016
-* B.S. in Mathematics, University of Campinas, 2013
+* Ph.D. in Bioinformatics (Mathematical Neuroscience), University of São Paulo, 2024.
+* M.S. in Applied Mathematics, University of Campinas, 2016.
+* B.S. in Mathematics, University of Campinas, 2013.
   

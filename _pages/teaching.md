@@ -14,7 +14,7 @@ Teaching Assistant. ([program](/files/program_MDA_spring_2021.pdf), [Notes on Sp
 
 * Complex-Valued Neural Networks (Minicourse, Winter 2017).\
 Lecturer. ([program](/files/program_cvnn_2017.pdf), [lecture notes](), [slides]()) 
-* Genetic Algorithms with Python (Minicourse, Spring 2016).\
-Lecturer. ([program](/files/program_ga_python_2016.pdf), [lecture notes](), [slides]())
+* Bio-Inspired Algorihtms: An Introduction (Minicourse, Winter 2016).\
+Lecturer. ([program](/files/program_bioinspired_minicourse_2016.pdf), [lecture notes](), [slides]())
 * MA327 - Linear Algebra (Fall 2016).\
 Teaching Assistant. ([program](/files/program_linear_algebra_fall_2016.pdf), [Gram-Schmidt Orthogonalization Process](/file/gram_schmidt.pdf))

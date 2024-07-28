@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en). Currently, I'm a Ph.D. candidate in Bioinformatics (Mathematical Neuroscience) at the [University of São Paulo](https://www5.usp.br/). I have experience in the areas of mathematics, applied mathematics, computer science, and bioinformatics, with an emphasis on mathematical neuroscience. More specifically, I am interested in the mathematical foundations of methods coming from various areas of pure and applied mathematics, such as combinatorics, algebraic topology and geometry, discrete geometry, graph theory, category theory, complex systems, and complexity science, and how these methods, together with probabilistic, statistical, and computational methods, can be useful in mathematical neuroscience and mathematical biology. 
+Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied and Computational Mathematics both from the [University of Campinas](https://www.unicamp.br/en) and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I have experience in the areas of mathematics, applied mathematics, computer science, and bioinformatics, with an emphasis on mathematical neuroscience. More specifically, I am interested in the mathematical foundations of methods coming from various areas of pure and applied mathematics, such as abstract algebra, combinatorics, algebraic topology and geometry, discrete geometry, graph theory, category theory, complex systems, and complexity science, and how these methods, together with probabilistic, statistical, and computational methods, can be useful in mathematical neuroscience and mathematical biology. 
 
 
 
@@ -59,9 +59,9 @@ Hi! My name is Heitor Baldo and I hold a B.S. in Mathematics and a M.S. in Appli
 ## Master's Thesis and PhD Thesis
 
 
-* [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](files/BaldoHeitor_PhD_Thesis.pdf). PhD Thesis. University of São Paulo, 2024 (expected).
+* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](files/BaldoHeitor_PhD_Thesis.pdf) [Doctoral Thesis, University of São Paulo] https://doi.org/10.11606/T.95.2024.tde-04072024-124243
 
-* [Álgebras de Clifford e de Cayley-Dickson](/files/BaldoHeitor_MP.pdf). Master's Thesis. University of Campinas, 2016.
+* **Baldo, H.** (2016). [Álgebras de Clifford e de Cayley-Dickson](/files/BaldoHeitor_MP.pdf). [Master's Thesis, University of Campinas] https://doi.org/10.47749/T/UNICAMP.2016.971225
 
 
 
