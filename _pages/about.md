@@ -46,13 +46,14 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 * **<span style="color:#52ADC8">Neural Information and Cognition.</span>** Category theory applied to the modeling of information neural networks and to the mathematical modeling of cognition.
 * **<span style="color:#52ADC8">Natural/Artificial Neural Computation and AI in Neural Data Analysis.</span>** Topological, categorical, and geometric deep learning techniques applied in neural data analysis. Associative memory and Hopfield networks. Interplay between AI and neuroscience. 
 * **<span style="color:#52ADC8">Multiscale Brain Modeling.</span>** AdS/Brain correspondence (brain MERA tensor networks). Multiscale tensor networks.
+* **<span style="color:#52ADC8">Neurogenetics and Transcriptomics.</span>** Relationships between the transcriptome and the connectome.
 
 
 ### Mathematical Biology
 
-* **<span style="color:#52ADC8">Biological Networks.</span>** Gene regulatory networks. Gene co-expression networks. Phylogenetics networks.
+* **<span style="color:#52ADC8">Biological Networks.</span>** Gene regulatory networks. Gene co-expression networks. Biochemical reaction networks. Metabolic networks. Phylogenetics networks.
 
-* **<span style="color:#52ADC8">DNA/RNA-Related.</span>** Topological Data Analysis of RNA transcriptome. Modeling DNA and RNA mutations via graph theory and matroid theory. 
+* **<span style="color:#52ADC8">DNA/RNA-Related.</span>** Topological Data Analysis of RNA transcriptome. Modeling DNA and RNA mutations via graph theory and matroid theory. Protein and RNA folding.
 
 
 
