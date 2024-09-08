@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV may be found [here](/files/cv.pdf), and my CV Lattes [here](http://lattes.cnpq.br/9560123815894005). 
+My CV may be found [here](/files/CV.pdf), and my CV Lattes [here](http://lattes.cnpq.br/9560123815894005). 
 
 ## Academic Appointments
 
