@@ -45,7 +45,6 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 * Hypergraphs in chemical reaction network theory;
 * Topological data analysis in RNA transcriptome;
 * Modeling DNA and RNA dynamics via graph theory and matroid theory;
-* Network statistics for neuroscience;
 * Graph theoretical analysis and topological data analysis for neuroscience (brain connectivity networks) / connectomics and neurogenetics;
 * Multiscale network neuroscience; 
 * Multiscale brain modeling; AdS/Brain correspondence (brain MERA tensor networks).;
