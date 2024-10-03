@@ -33,9 +33,9 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 * Computational algebraic topology and geometry;
 * Discrete and combinatorial geometry (discrete (higher-order) structures; discrete curvatures; finite geometries);
 * Graph theory (quantitative (hyper)graph theory; spectral (hyper)graph theory; (hyper)graph matching);
-* Matroid theory (oriented matroids; (hyper)graphic matroids); 
+* Matroid theory (oriented matroids; (hyper)graphic matroids; tropical matroids); 
 * Network statistics;
-* Applied category theory;
+* Category theory (categorification; monoidal categories; operads);
 * Complexity science (complexity measures; quantitative emergence);
 * Multiscale complex systems.
 
