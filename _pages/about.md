@@ -28,50 +28,38 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 
 ## Research Interests
 
-### Mathematics and Applied Mathematics
+### Mathematical Theories
 
-* **<span style="color:#52ADC8">Graph Theory.</span>** Quantitative graph theory. Algebraic and spectral graph theory. Topological and geometric graph theory. Graph matching. Multilayer graphs. Dynamic graphs. Subgraph discovery. Hypergraphs. 
-* **<span style="color:#52ADC8">Combinatorics and Discrete Geometry.</span>** Matroids, oriented Matroids, and tropical matroids. Finite geometries. Discrete curvatures. Polyhedral complexes.
-* **<span style="color:#52ADC8">Applied Algebraic Topology.</span>** Simplicial complexes. Simplicial homology. Path Homology. Persisent homology. Discrete Morse theory. Cellular sheaves. Q-Analysis.
-* **<span style="color:#52ADC8">Applied Algebraic Geometry.</span>** Neural rings and neural ideals. Gröbner bases. Hilbert schemes.
-* **<span style="color:#52ADC8">Tropical Algebra and Geometry.</span>** Tropical linear algebra. Tropical polynomials. Tropical varieties. Tropical polytopes.
-* **<span style="color:#52ADC8">Applied Category Theory.</span>** Categorification. Hypergraph categories. Monoidal categories and Operads.
-* **<span style="color:#52ADC8">Complex Systems and Complexity Science.</span>** Complexity. Quantitative emergence. Graph cellular automata. Multi-scale complex systems. Complex time.
-
-
-### Computer Science
+* Computational algebraic topology and geometry;
+* Discrete and combinatorial geometry (discrete (higher-order) structures; discrete curvatures; finite geometries);
+* Graph theory (quantitative (hyper)graph theory; spectral (hyper)graph theory; (hyper)graph matching);
+* Matroid theory (oriented matroids; (hyper)graphic matroids); 
+* Network statistics;
+* Applied category theory;
+* Complexity science (complexity measures; quantitative emergence);
+* Multiscale complex systems.
 
 
-* **<span style="color:#52ADC8">Artificial Intelligence.</span>** Scientific machine learning. Topological, categorical, and geometric deep learning. Tensor networks. Recurrent neural networks. Reinforcement learning.
+### Applications 
 
-
-
-
-### Mathematical Neuroscience
-
-* **<span style="color:#52ADC8">Neural Coding.</span>** Theory of combinatorial neural codes. Neural rings. Applications of oriented matroids on the theory of combinatorial neural codes. Combinatorial neural codes from the perspective of tropical algebra and geometry.
-* **<span style="color:#52ADC8">Network Neuroscience.</span>** Methods in brain connectivity inference (PDC, DTF). Graph theoretical analysis and topological data analysis of brain connectivity networks. Brain dynamics and Q-Analysis / directed Q-Analysis. Brain dynamics and cellular sheaves. Brain higher-order networks and hypergraphs. Network complexity of brain networks. Modeling dynamic brain networks through graph cellular automata.
-* **<span style="color:#52ADC8">Neural Information and Cognition.</span>** Category theory applied to the modeling of information neural networks and to the mathematical modeling of cognition.
-* **<span style="color:#52ADC8">Natural/Artificial Neural Computation and AI in Neural Data Analysis.</span>** Topological, categorical, and geometric deep learning techniques applied in neural data analysis. Associative memory and Hopfield networks. Interplay between AI and neuroscience. 
-* **<span style="color:#52ADC8">Multi-Scale Brain Modeling.</span>** AdS/Brain correspondence (brain MERA tensor networks). Multi-scale tensor networks.
-* **<span style="color:#52ADC8">Connectomics and Transcriptomics.</span>** Relationships between the transcriptome and the connectome topology.
-
-
-### Mathematical Biology & Bioinformatics
-
-* **<span style="color:#52ADC8">Biological Networks.</span>** Gene regulatory networks. Gene co-expression networks. Biochemical reaction networks. Metabolic networks. Phylogenetics networks.
-* **<span style="color:#52ADC8">DNA/RNA-Related.</span>** Topological Data Analysis of RNA transcriptome. Modeling DNA and RNA mutations via graph theory and matroid theory. Graph rewriting and graph grammars for modeling RNA folding.
-* **<span style="color:#52ADC8">Simulation Biocomputing.</span>** DNA computation algorithms. Organoid intelligence algorithms.
-
+* Hypergraphs in chemical reaction network theory;
+* Topological data analysis in RNA transcriptome;
+* Modeling DNA and RNA dynamics via graph theory and matroid theory;
+* Network statistics for neuroscience;
+* Graph theoretical analysis and topological data analysis for neuroscience (brain connectivity networks) / connectomics and neurogenetics;
+* Multiscale network neuroscience; 
+* Multiscale brain modeling; AdS/Brain correspondence (brain MERA tensor networks).;
+* Neural rings and combinatorial neural codes;
+* Neural manifolds and Stiefel manifolds for neural data analysis;
+* Topological / geometric deep learning.
 
 
 ## Master's Thesis and PhD Thesis
 
 
-* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](files/BaldoHeitor_PhD_Thesis.pdf) [Doctoral Thesis, University of São Paulo] https://doi.org/10.11606/T.95.2024.tde-04072024-124243
+* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](https://arxiv.org/pdf/2409.09862) [Doctoral Thesis, University of São Paulo] https://doi.org/10.11606/T.95.2024.tde-04072024-124243
 
 * **Baldo, H.** (2016). [Álgebras de Clifford e de Cayley-Dickson](/files/BaldoHeitor_MP.pdf). [Master's Thesis, University of Campinas] https://doi.org/10.47749/T/UNICAMP.2016.971225
-
 
 
 

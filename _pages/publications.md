@@ -18,6 +18,6 @@ author_profile: true
 
 ## Master's Thesis and PhD Thesis
 
-* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](files/BaldoHeitor_PhD_Thesis.pdf) [Doctoral Thesis, University of São Paulo] https://doi.org/10.11606/T.95.2024.tde-04072024-124243
+* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](https://arxiv.org/pdf/2409.09862) [Doctoral Thesis, University of São Paulo] https://doi.org/10.11606/T.95.2024.tde-04072024-124243
 
 * **Baldo, H.** (2016). [Álgebras de Clifford e de Cayley-Dickson](/files/BaldoHeitor_MP.pdf). [Master's Thesis, University of Campinas] https://doi.org/10.47749/T/UNICAMP.2016.971225
