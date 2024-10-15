@@ -35,18 +35,14 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 * Graph theory (quantitative (hyper)graph theory and network statistics; spectral (hyper)graph theory; (hyper)graph matching);
 * Matroid theory (oriented matroids; (hyper)graphic matroids; tropical matroids); 
 * Category theory (categorification; monoidal categories; operads);
-* Complexity science (complexity measures; quantitative emergence);
-* Multiscale complex systems.
-
+* Complexity science / complex systems (complexity measures; quantitative emergence; graph celullar automata; agent-based modeling);
 
 ### Applications 
 
-* Hypergraphs in chemical reaction network theory;
+* (Hyper)graphs / (hyper)graphic matroids in chemical reaction network theory;
 * Topological data analysis in RNA transcriptome;
 * Modeling DNA and RNA dynamics via graph theory and matroid theory;
 * Graph theoretical analysis and topological data analysis for neuroscience (brain connectivity networks) / connectomics and neurogenetics;
-* Multiscale network neuroscience; 
-* Multiscale brain modeling; AdS/Brain correspondence (brain MERA tensor networks).;
 * Neural rings and combinatorial neural codes;
 * Neural manifolds and Stiefel manifolds for neural data analysis;
 * Topological / geometric deep learning.
@@ -55,7 +51,7 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 ## Master's Thesis and PhD Thesis
 
 
-* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](https://arxiv.org/pdf/2409.09862) [Doctoral Thesis, University of São Paulo] https://doi.org/10.11606/T.95.2024.tde-04072024-124243
+* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](https://arxiv.org/pdf/2409.09862) [Doctoral Dissertation, University of São Paulo] https://doi.org/10.11606/T.95.2024.tde-04072024-124243
 
 * **Baldo, H.** (2016). [Álgebras de Clifford e de Cayley-Dickson](/files/BaldoHeitor_MP.pdf). [Master's Thesis, University of Campinas] https://doi.org/10.47749/T/UNICAMP.2016.971225
 
