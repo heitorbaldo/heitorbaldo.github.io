@@ -10,20 +10,18 @@ redirect_from:
 
 ## About me
 
-Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied and Computational Mathematics both from the [University of Campinas](https://www.unicamp.br/en) and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). Currently, I'm a postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en). I have experience in the areas of mathematics, applied mathematics, computer science, and bioinformatics, with an emphasis on mathematical neuroscience. More specifically, I am interested in the mathematical foundations of methods coming from various areas of pure and applied mathematics, such as abstract algebra, combinatorics, algebraic topology and geometry, discrete geometry, graph theory, category theory, complex systems, and complexity science, and how these methods, together with probabilistic, statistical, and computational methods, can be useful in mathematical neuroscience and mathematical biology. 
-
-
+Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied and Computational Mathematics both from the [University of Campinas](https://www.unicamp.br/en) and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I was a visiting postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en), Germany, and Im currently a postdoctoral fellow at the [University of São Paulo](https://www5.usp.br/). I have experience in the areas of mathematics, applied mathematics, computer science, and bioinformatics, with an emphasis on mathematical neuroscience. More specifically, I am interested in the mathematical foundations of methods coming from various areas of pure and applied mathematics, such as abstract algebra, combinatorics, algebraic topology and geometry, discrete geometry, graph theory, category theory, complex systems, and complexity science, and how these methods, together with probabilistic, statistical, and computational methods, can be useful in mathematical neuroscience and mathematical biology. 
 
 <!-- <div class="notice--info"> <!-- class="notice--warning" -->
 <!-- You may find a short version of my CV <a href=""><strong>here</strong></a>.-->
 <!-- </div>-->
 
-
 <div class="notice--info"> <!-- class="notice--warning" -->
- Read my posts about science and other topics on my <a href="https://substack.com/@actuallyheitor" target="blank"><strong>Substack</strong></a>
+Update (09 December 2025)
+* A preliminary draft of my newest manuscript is now available here.
+* A preliminary draft of my book (in Portuguese) "Topologica Algébrica Computacional: Uma Introdução" is now available here.
+  
 </div>
-
-
 
 
 ## Research Interests
@@ -60,3 +58,4 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 ## Other Information
 
 * I'm an affiliate researcher at the [Institute for Globally Distributed Open Research and Education](https://igdore.org/) (IGDORE).
+
