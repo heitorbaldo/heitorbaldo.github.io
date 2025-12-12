@@ -17,7 +17,7 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 <!-- </div>-->
 
 <div class="notice--info"> <!-- class="notice--warning" -->
-<b>Update (10 December 2025)</b>
+<b>Update</b>
 <br>
 <ul>
   <li> A preliminary draft of my newest manuscript is now available <a href="">here</a>.</li>
@@ -60,6 +60,7 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 ## Other Information
 
 * I'm an affiliate researcher at the [Institute for Globally Distributed Open Research and Education](https://igdore.org/) (IGDORE).
+
 
 
 
