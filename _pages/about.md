@@ -20,8 +20,8 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 <b>Update (10 December 2025)</b>
 <br>
 <ul>
-  <li> A preliminary draft of my newest manuscript is now available here.</li>
-  <li> A preliminary draft of my book "Topologica Algébrica Computacional: Uma Introdução" (in Portuguese) is now available here.</li>
+  <li> A preliminary draft of my newest manuscript is now available <a href="">here</a>.</li>
+  <li> A preliminary draft of my book "Topologica Algébrica Computacional: Uma Introdução" (in Portuguese) is now available <a href="">here</a>.</li>
 </ul>
 </div>
 
@@ -60,6 +60,7 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 ## Other Information
 
 * I'm an affiliate researcher at the [Institute for Globally Distributed Open Research and Education](https://igdore.org/) (IGDORE).
+
 
 
 
