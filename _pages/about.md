@@ -32,16 +32,15 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 
 * Computational algebraic topology and geometry;
 * Discrete and combinatorial geometry (discrete (higher-order) structures; discrete curvatures; finite geometries);
-* Graph theory (quantitative (hyper)graph theory and network statistics; spectral (hyper)graph theory; (hyper)graph matching);
+* Graph theory (quantitative (hyper)graph theory and network statistics; spectral (hyper)graph theory; (hyper)graph products; multilayer (hyper)graphs);
 * Matroid theory (oriented matroids; (hyper)graphic matroids; tropical matroids); 
 * Category theory (categorification; monoidal categories; operads);
 * Complexity science / complex systems (complexity measures; quantitative emergence; graph celullar automata; agent-based modeling);
 
 ### Applications 
 
-* (Hyper)graphs / (hyper)graphic matroids in chemical reaction network theory;
-* Topological data analysis in RNA transcriptome;
-* Modeling DNA and RNA dynamics via graph theory and matroid theory;
+* Topological data analysis of metabolic hypergraphs;
+* Quantitative analysis of multilayer and dynamic brain (hyper)graphs;
 * Graph theoretical analysis and topological data analysis for neuroscience (brain connectivity networks) / connectomics and neurogenetics;
 * Neural rings and combinatorial neural codes;
 * Neural manifolds and Stiefel manifolds for neural data analysis;
@@ -60,6 +59,7 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 ## Other Information
 
 * I'm an affiliate researcher at the [Institute for Globally Distributed Open Research and Education](https://igdore.org/) (IGDORE).
+
 
 
 
