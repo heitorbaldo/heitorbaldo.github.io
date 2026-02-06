@@ -39,8 +39,6 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 
 ### Applications 
 
-* Topological data analysis of metabolic hypergraphs;
-* Multi-omics analysis through spectral properties of multilayer hypergraphs;
 * Quantitative analysis of multilayer and dynamic brain (hyper)graphs;
 * Graph theoretical analysis and topological data analysis for neuroscience (brain connectivity networks) / connectomics and neurogenetics;
 * Neural rings and combinatorial neural codes;
@@ -59,6 +57,7 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 ## Other Information
 
 * I'm an affiliate researcher at the [Institute for Globally Distributed Open Research and Education](https://igdore.org/) (IGDORE).
+
 
 
 
