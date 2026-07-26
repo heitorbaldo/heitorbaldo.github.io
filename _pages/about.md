@@ -28,7 +28,7 @@ Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and
 ## Research
 
 
-## 1. Brain Connectivity Inference, Graph Theoretic and Topological Data Analysis of Brain Networks.
+### 1. Brain Connectivity Inference, Graph Theoretic and Topological Data Analysis of Brain Networks.
 
 Quantitative frameworks for representing and characterizing brain connectivity across spatial and temporal scales; directed connectivity inference in the frequency domain: multivariate autoregressive methods (partial directed coherence (PDC), directed transfer function (DTF), and related estimators) recover directed connectivity networks from neural signals (EEG, fMRI, MEG). From these inferred networks, we go beyond pairwise graphs toward multiway, multilayer, temporal, and dynamic representations that capture directed, higher-order neural interactions through hypergraphs, simplicial complexes, and digraph-based complexes. We characterize these structures through discrete geometry (Ollivier–Ricci and Forman–Ricci curvatures, finite geometries, and combinatorial invariants) and through graph theoretic and topological data analysis (persistent homology, filtration-based descriptors, Q-analysis, and network summary statistics), quantifying structural and functional organization across scales.
 
@@ -39,10 +39,11 @@ Algebraic and combinatorial models of neural representation, centered on neural 
 Analysis of neural population activity through low-dimensional neural manifolds and the geometry of matrix manifolds, including Stiefel and Grassmann manifolds for dimensionality reduction, subspace estimation, cross-session and cross-subject alignment, and manifold-constrained state inference. This treats neural computation as motion on curved latent spaces and brings the appropriate differential-geometric and optimization machinery (geodesics, retractions, manifold-valued statistics) to bear on how such trajectories relate to behavior and cognition.
 
 ### 4. Topological and Geometric Deep Learning for Neuroscience. 
-Development and application of geometric, topological, and manifold-aware learning architectures — graph, hypergraph, simplicial, and sheaf neural networks, as well as equivariant and manifold-valued models, tailored to the structure of neural and connectomic data. The goal is to build models whose inductive biases respect the higher-order, geometric, and topological nature of brain data, improving both predictive performance and interpretability relative to generic deep-learning approaches.
+Development and application of geometric, topological, and manifold-aware learning architectures (graph, hypergraph, simplicial, and sheaf neural networks, as well as equivariant and manifold-valued models, adapted to the structure of neural and connectomic data). The goal is to build models whose inductive biases respect the higher-order, geometric, and topological nature of brain data, improving both predictive performance and interpretability relative to generic deep-learning approaches.
 
 ### 5. Brain Coding and Decoding
-Reconstruction of stimuli, intentions, and cognitive states from measured neural activity, spanning both the encoding problem (how sensory and cognitive variables are represented) and the decoding problem ("brain reading"): recovering those variables from recorded signals. This integrates the representational insights of the algebraic, manifold, and topological directions above with statistical and machine-learning decoders, with relevance to brain–computer interfaces and neurotechnology.
+Reconstruction of stimuli, intentions, and cognitive states from measured neural activity, covering both the encoding problem (how sensory and cognitive variables are represented) and the decoding problem: recovering those variables from recorded signals. This integrates the representational insights of the algebraic, manifold, and topological directions above with statistical and machine-learning decoders, with relevance to brain–computer interfaces and neurotechnology.
+
 
 ## MS and PhD Thesis
 
