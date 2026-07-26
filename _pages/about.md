@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied and Computational Mathematics both from the [University of Campinas](https://www.unicamp.br/en), and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I was a visiting postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en), Germany, and I'm currently a postdoctoral fellow at the [University of São Paulo](https://www5.usp.br/). I have experience in the areas of mathematics, applied mathematics, and computer science, with an emphasis on mathematical neuroscience. More specifically, I am interested in the mathematical foundations of methods coming from various areas of pure and applied mathematics, such as abstract algebra, combinatorics, algebraic topology and geometry, discrete geometry, graph theory, category theory, complex systems, and complexity science, and how these methods, together with probabilistic, statistical, and computational methods, can be useful in mathematical neuroscience. 
+Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en), and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I was a visiting postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en) in Germany, and I am currently a postdoctoral fellow at the [University of São Paulo](https://www5.usp.br/). My background spans mathematics, applied mathematics, and computer science, with an emphasis on mathematical neuroscience. 
 
 <!-- <div class="notice--info"> <!-- class="notice--warning" -->
 <!-- You may find a short version of my CV <a href=""><strong>here</strong></a>.-->
@@ -20,31 +20,30 @@ Hi! My name is Heitor Baldo and I hold a BS in Mathematics and an MS in Applied 
 <b>Update</b>
 <br>
 <ul>
-  <li> A preliminary draft of my newest manuscript is now available <a href="">here</a>.</li>
-  <li> A preliminary draft of my book "Topologica Algébrica Computacional: Uma Introdução" (in Portuguese) is now available <a href="">here</a>.</li>
+  <li> A preprint version of our newest manuscript is now available <a href="https://arxiv.org/abs/2605.14178">here</a>.</li>
 </ul>
 </div>
 
 
-## Research Interests
+## Research
 
-### Mathematical Theories
+### 1. Higher-Order and Geometric Analysis of Brain Networks. 
+Quantitative frameworks for multilayer, temporal, and dynamic representations of brain connectivity, moving beyond pairwise (directed) graphs toward hypergraphs, simplicial complexes, and digraph-based complexes that capture (directed) polyadic, higher-order neural interactions. One of the focuses of my research is the discrete-geometric characterization of these structures (Ollivier–Ricci and Forman–Ricci curvatures, finite geometries, and combinatorial invariants extracted from electrophysiological and neuroimaging data (EEG, fMRI, MEG)) used to quantify network properties. This direction also encompasses directed connectivity inference in the frequency domain via multivariate autoregressive methods such as partial directed coherence (PDC) and the directed transfer function (DTF), through which the networks themselves are estimated from measured signals.
 
-* Computational algebraic topology and geometry;
-* Discrete and combinatorial geometry (discrete (higher-order) structures; discrete curvatures; finite geometries);
-* Graph theory (quantitative (hyper)graph theory and network statistics; spectral (hyper)graph theory; (hyper)graph products; multilayer (hyper)graphs);
-* Matroid theory (oriented matroids; (hyper)graphic matroids; tropical matroids); 
-* Category theory (categorification; monoidal categories; operads);
-* Complexity science / complex systems (complexity measures; quantitative emergence; graph celullar automata; agent-based modeling);
+### 2. Topological Data Analysis and Graph Theory in Connectomics. 
+Graph-theoretic and topological data analysis (TDA) of brain connectivity networks and connectomes, using persistent homology, filtration-based descriptors, and network summary statistics to characterize structural and functional organization across spatial and temporal scales. 
 
-### Applications 
+### 3. Neural Rings and Combinatorial Neural Codes. 
+Algebraic and combinatorial models of neural representation, centered on neural rings, neural ideals, and combinatorial neural codes as formal tools for decoding the structure of population activity. The focus is on how the pattern of co-firing among neurons constrains the underlying stimulus space, recovering receptive-field geometry, place-field arrangements, convexity properties, and the intrinsic dimensionality of represented variables directly from the combinatorics of the code, independent of specific embeddings.
 
-* Quantitative analysis of multilayer and dynamic brain (hyper)graphs;
-* Graph theoretical analysis and topological data analysis for neuroscience (brain connectivity networks) / connectomics and neurogenetics;
-* Neural rings and combinatorial neural codes;
-* Neural manifolds and Stiefel manifolds for neural data analysis;
-* Topological/geometric deep learning.
+### 4. Neural Manifolds and Matrix-Manifold Methods. 
+Analysis of neural population activity through low-dimensional neural manifolds and the geometry of matrix manifolds, including Stiefel and Grassmann manifolds for dimensionality reduction, subspace estimation, cross-session and cross-subject alignment, and manifold-constrained state inference. This treats neural computation as motion on curved latent spaces and brings the appropriate differential-geometric and optimization machinery (geodesics, retractions, manifold-valued statistics) to bear on how such trajectories relate to behavior and cognition.
 
+### 5. Topological and Geometric Deep Learning for Neuroscience. 
+Development and application of geometric, topological, and manifold-aware learning architectures — graph, hypergraph, simplicial, and sheaf neural networks, as well as equivariant and manifold-valued models, tailored to the structure of neural and connectomic data. The goal is to build models whose inductive biases respect the higher-order, geometric, and topological nature of brain data, improving both predictive performance and interpretability relative to generic deep-learning approaches.
+
+### 6. Brain Coding and Decoding
+Reconstruction of stimuli, intentions, and cognitive states from measured neural activity, spanning both the encoding problem (how sensory and cognitive variables are represented) and the decoding problem ("brain reading"): recovering those variables from recorded signals. This integrates the representational insights of the algebraic, manifold, and topological directions above with statistical and machine-learning decoders, with relevance to brain–computer interfaces and neurotechnology.
 
 ## MS and PhD Thesis
 
