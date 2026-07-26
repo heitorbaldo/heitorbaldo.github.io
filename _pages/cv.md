@@ -13,8 +13,8 @@ My CV may be found [here](/files/CV.pdf), and my CV Lattes [here](http://lattes.
 
 ## Academic Appointments
 
-* **Visiting Postdoctoral Research Fellow**, Leipzig University, Germany (2024-).
-* **Postdoctoral Research Fellow**, University of São Paulo, Brazil (2024-).
+* **Postdoctoral Research Fellow**, University of São Paulo, Brazil (2024-2026).
+* **Visiting Postdoctoral Research Fellow**, Leipzig University, Germany (2024-2025).
 * **Affiliate Researcher**, IGDORE Institute, Sweden (2019-).
 
 ## Education
