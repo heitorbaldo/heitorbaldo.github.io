@@ -21,9 +21,6 @@ author_profile: true
 * [Notes on Computational Neuroscience]() - These notebooks are a compilation of algorithms of models of spiking neurons: Izhikevich model, AdEx model, LIF models.
 * [Topics on Artificial Intelligence in Neuroimaging]() - These notebooks are a compilation of algorithms of deep learning models for the analysis of fMRI, EEG, and MEG data.
 
-## Papers with Code
-
-* Directed Q-Analysis and Directed Higher-Order Adjacencies on Digraphs: A Quantitative Approach, 2024 (expected).
 
 ## Docker Container Images
 
