@@ -5,15 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-## In Preparation
+## Preprint and under Review Manuscripts
 
-* Directed Q-Analysis and Directed Higher-Order Connectivities on Digraphs: A Quantitative Approach, 2024 (expected).
-* Quantifying Complexity on Graph Cellular Automata of Epileptic Brain Networks, 2024 (expected).
+* **Baldo, H.**, Baccalá, L., Fujita, A., & Sameshima, K. (2026). [Directed Q-Analysis and Directed Higher-Order Connectivity on Digraphs: A Quantitative Approach](https://doi.org/10.48550/arXiv.2605.14178), arXiv:2605.14178 (preprint - submitted to a peer-reviewed journal).
+* **Baldo, H.** & Fujita, A. (2026). A Temporal Hypergraph Motif Framework for the Analysis of Higher-Order Dynamics of Epileptic Brain Networks (under review).
 
+## In Preparation Manuscripts
+
+* **Baldo, H.** & Fujita, A. (2026). Quantifying Complexity on Graph Cellular Automata of Epileptic Brain Networks (in preparation).
+* **Baldo, H.** & Fujita, A. (2026). On the Geometry of Spectral Evolution of Temporal Graphs. (in preparation).
 
 ## Books (drafts)
 
-* Topologia Algébrica Computacional (draft in portuguese).
+* **Baldo, H.**, Topologia Algébrica Computacional: Uma Introdução (draft in Portuguese) - in preparation.
 
 
 ## Master's Thesis and PhD Thesis
