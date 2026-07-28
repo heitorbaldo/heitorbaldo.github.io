@@ -17,4 +17,4 @@ Lecturer. ([program](/files/program_cvnn_2017.pdf), [lecture notes](), [slides](
 * Bio-Inspired Algorihtms: An Introduction (Minicourse, Winter 2016).\
 Lecturer. ([program](/files/program_bioinspired_minicourse_2016.pdf), [lecture notes](), [slides]())
 * MA327 - Linear Algebra (Fall 2016).\
-Teaching Assistant. ([program](/files/program_linear_algebra_fall_2016.pdf), [Gram-Schmidt Orthogonalization Process](/file/notes_gram_schmidt_process.pdf))
+Teaching Assistant. ([program](/files/program_linear_algebra_fall_2016.pdf), [Gram-Schmidt Orthogonalization Process](/files/notes_gram_schmidt_process.pdf))
