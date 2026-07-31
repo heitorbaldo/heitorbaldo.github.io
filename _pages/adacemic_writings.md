@@ -14,4 +14,4 @@ author_profile: true
 ## Slides and Other Writings
 
 * [Graph Cellular Automata and Beyond: Applications in Network Neuroscience](../files/GCA_presentation.pdf) (presentation slides, 2022).
-* [The Theory of Path Complexes and its Applications in the Analysis of Brain Networks](../files/PC_Brain_presentation.pdf) (presentation slides, 2022).
+* [Path Homology Theory of Digraphs and Its Applications to Brain Network Analysis](../files/workshop_path_complexes_brain_networks.pdf) (presentation slides, 2022).
