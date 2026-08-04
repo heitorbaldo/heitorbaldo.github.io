@@ -13,8 +13,8 @@ Teaching Assistant. ([program](/files/program_MDA_spring_2021.pdf), [Notes on Sp
 ## University of Campinas (UNICAMP) 
 
 * Complex-Valued Neural Networks (Minicourse, Winter 2017).\
-Lecturer. ([program](/files/program_cvnn_2017.pdf), [lecture notes](), [slides]()) 
+Lecturer. ([program](/files/program_cvnn_2017.pdf), [slides]()) 
 * Bio-Inspired Algorihtms: An Introduction (Minicourse, Winter 2016).\
-Lecturer. ([program](/files/program_bioinspired_minicourse_2016.pdf), [lecture notes](), [slides]())
+Lecturer. ([program](/files/program_bioinspired_minicourse_2016.pdf), [slides]())
 * MA327 - Linear Algebra (Fall 2016).\
 Teaching Assistant. ([program](/files/program_linear_algebra_fall_2016.pdf), [Gram-Schmidt Orthogonalization Process](/files/notes_gram_schmidt_process.pdf))
