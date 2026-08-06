@@ -8,7 +8,7 @@ author_profile: true
 ## Notes and Unpublished Manuscripts
 
 * Baldo, H. (2022). [Notes on Discrete Morse Theory on Digraphs](../files/notes_DMT.pdf) (study notes).
-* Baldo, H. (2022). [Topics in Clifford and Lie Algebras Associated with Graphs](../files/notes_Clifford_Lie_Graphs.pdf) (unpublished manuscript).
+* Baldo, H. (2022). [Topics in Clifford Algebras Associated with Graphs](../files/Topics_Clifford_Algebras_Graphs.pdf) (unpublished manuscript).
 
 
 ## Slides and Other Writings
