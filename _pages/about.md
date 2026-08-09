@@ -25,7 +25,7 @@ Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and
 </div>
 
 
-## Research
+## Research Interests
 
 
 ### 1. Brain Connectivity Inference, Graph Theoretic and Topological Data Analysis of Brain Networks.
