@@ -13,6 +13,6 @@ Teaching Assistant. ([program](../files/program_MDA_spring_2021.pdf), [Notes on 
 ## University of Campinas (UNICAMP) 
 
 * Bio-Inspired Algorithms: An Introduction (Minicourse, Winter 2016).\
-Lecturer. ([program](../files/program_bioinspired_minicourse_2016.pdf), [slides](../files/BioInspiredAlgo_WinterSchool.pdf))
+Lecturer. ([program](../files/program_bioinspired_minicourse_2016.pdf), [Lecture 1](../files/Lecture1_BI_Algorithms_2016.pdf))
 * MA327 - Linear Algebra (Fall 2016).\
 Teaching Assistant. ([program](../files/program_linear_algebra_fall_2016.pdf), [Gram-Schmidt Orthogonalization Process](../files/notes_gram_schmidt_process.pdf))
