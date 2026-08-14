@@ -19,7 +19,7 @@ author_profile: true
 ## Jupyter Notebooks
 
 * [Notes on Topological Deep Learning](https://github.com/heitorbaldo/Notes-Topological-Deep-Learning) - Jupyter notebooks implementing neural network models for classifying random graphs and hypergraphs based on their underlying generative models.
-* Notes on Artificial Intelligence in Neuroimaging (Soon) - A collection of Jupyter notebooks providing a collection of algorithms and deep learning models for the analysis of fMRI, EEG, and MEG data.
+* Notes on Artificial Intelligence in Neuroimaging (Soon) - A collection of Jupyter notebooks providing algorithms and deep learning models for the analysis of fMRI, EEG, and MEG data.
 
 
 ## Docker Container Images
