@@ -13,17 +13,17 @@ author_profile: true
 
 ## Julia Packages
 
-* DigplexQ.jl - A Julia implementation of the DigplexQ Python package, providing tools for computations and quantitative analysis of digraph-based complexes. (Soon).
+* DigplexQ.jl (Soon) - A Julia implementation of the DigplexQ Python package, providing tools for computations and quantitative analysis of digraph-based complexes.
 
 
 ## Jupyter Notebooks
 
 * [Notes on Topological Deep Learning](https://github.com/heitorbaldo/Notes-Topological-Deep-Learning) - Jupyter notebooks implementing neural network models for classifying random graphs and hypergraphs based on their underlying generative models.
-* [Notes on Artificial Intelligence in Neuroimaging]() - These notebooks are a compilation of algorithms and deep learning models for the analysis of fMRI, EEG, and MEG data.
+* Notes on Artificial Intelligence in Neuroimaging (Soon) - A collection of Jupyter notebooks providing a collection of algorithms and deep learning models for the analysis of fMRI, EEG, and MEG data, covering a range of computational methods for processing, modeling, and interpreting neuroimaging and electrophysiological signals.
 
 
 ## Docker Container Images
 
-* DigplexQ Docker Container Image (Docker container image).
+* DigplexQ Docker Container Image (Docker container image) (Soon).
 
 
