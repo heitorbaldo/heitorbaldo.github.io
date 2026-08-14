@@ -7,19 +7,19 @@ author_profile: true
 
 ## Python Packages
 
-* [DigplexQ](https://github.com/heitorbaldo/DigplexQ) - DigplexQ is a Python package to perform computations with digraph-based complexes (directed flag complexes and path complexes). It is an "adjacency matrix-centered" package since it was designed so that the user can perform all computations just by entering an adjacency matrix as input. Current version: v0.0.7 (PyPi). Soon available for Julia (DigplexQ.jl).
+* [DigplexQ](https://github.com/heitorbaldo/DigplexQ) - DigplexQ is a Python package for performing computations on digraph-based complexes, including directed flag complexes and path complexes. It is designed as an adjacency-matrix-centered package, allowing users to perform all computations directly from an adjacency matrix without requiring explicit construction of the underlying complex. The package implements a range of quantitative methods for analyzing digraph-based complexes, primarily based on concepts from directed Q-analysis. At present, the implementation focuses exclusively on lower q-adjacency. Current version: v0.0.7 (PyPi). Soon available for Julia (DigplexQ.jl).
 * [PyTropical](https://github.com/heitorbaldo/PyTropical) - PyTropical is a Python package for tropical mathematics. Current version: v0.0.2 (PyPi).
 
 
 ## Julia Packages
 
-* DigplexQ.jl - Julia version of the DigplexQ Python package (Soon).
+* DigplexQ.jl - A Julia implementation of the DigplexQ Python package, providing tools for computations and quantitative analysis of digraph-based complexes. (Soon).
 
 
 ## Jupyter Notebooks
 
-* [Notes on Computational Neuroscience]() - These notebooks are a compilation of algorithms of models of spiking neurons: Izhikevich model, AdEx model, LIF models.
-* [Topics on Artificial Intelligence in Neuroimaging]() - These notebooks are a compilation of algorithms of deep learning models for the analysis of fMRI, EEG, and MEG data.
+* [Notes on Notes on Topological Deep Learning](https://github.com/heitorbaldo/Notes-Topological-Deep-Learning) - Jupyter notebooks implementing neural network models for classifying random graphs and hypergraphs based on their underlying generative models.
+* [Notes on Artificial Intelligence in Neuroimaging]() - These notebooks are a compilation of algorithms and deep learning models for the analysis of fMRI, EEG, and MEG data.
 
 
 ## Docker Container Images
