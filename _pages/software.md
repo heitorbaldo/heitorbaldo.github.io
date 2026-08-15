@@ -8,8 +8,9 @@ author_profile: true
 ## Python Packages
 
 * [DigplexQ](https://github.com/heitorbaldo/DigplexQ) - DigplexQ is a Python package for performing computations on digraph-based complexes, including directed flag complexes and path complexes. It is designed as an adjacency-matrix-centered package, allowing users to perform all computations directly from an adjacency matrix without requiring explicit construction of the underlying complex. The package implements a range of quantitative methods for analyzing digraph-based complexes, primarily based on concepts from directed Q-analysis. At present, the implementation focuses exclusively on lower q-adjacency. Current version: v0.0.7 (PyPi). Soon available for Julia (DigplexQ.jl).
-* [PyPDC](https://github.com/heitorbaldo/PyPDC) - PyPDC is an open-source Python package for estimating Partial Directed Coherence (PDC) and Directed Coherence (DC) from multivariate time-series data, with a particular focus on brain connectivity analysis. It implements asymptotic PDC estimation, allowing researchers to characterize directional information flow between pairs of brain regions or recording channels in the frequency domain. Current version: v0.0.8 (PyPi).
 * [PyTropical](https://github.com/heitorbaldo/PyTropical) - PyTropical is an open-source Python package for tropical mathematics, providing computational tools for working with tropical algebra. The package currently focuses on max-plus and min-plus algebras, implementing fundamental tropical operations such as tropical addition, multiplication, and exponentiation. Current version: v0.0.2 (PyPi).
+* [PyPDC](https://github.com/heitorbaldo/PyPDC) - PyPDC is an open-source Python package for estimating Partial Directed Coherence (PDC) and Directed Coherence (DC) from multivariate time-series data, with a particular focus on brain connectivity analysis. It implements asymptotic PDC estimation, allowing researchers to characterize directional information flow between pairs of brain regions or recording channels in the frequency domain. Current version: v0.0.8 (PyPi).
+
 
 
 
