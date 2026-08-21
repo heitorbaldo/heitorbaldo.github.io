@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en), and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I was a visiting postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en) in Germany, and I am currently a postdoctoral fellow at the [University of São Paulo](https://www5.usp.br/). My background spans mathematics, applied mathematics, and computer science, with an emphasis on mathematical neuroscience. 
+Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en), and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I was a visiting postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en) in Germany, and I am currently a postdoctoral fellow at the [University of São Paulo](https://www5.usp.br/). My background spans mathematics, applied mathematics, and computer science, with an emphasis on mathematical neuroscience and artificial intelligence. 
 
 <!-- <div class="notice--info"> <!-- class="notice--warning" -->
 <!-- You may find a short version of my CV <a href=""><strong>here</strong></a>.-->
