@@ -28,10 +28,12 @@ Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and
 ## Research Interests
 
 ### 1. Brain-Inspired Artificial Intelligence
-Brain-inspired AI algorithms, encompassing spiking neural networks (SNNs), stochastic SNNs, ultra-LIF SNNs, and biologically grounded learning rules such as dopaminergic reinforcement learning and neuromodulated synaptic plasticity.
+Brain-inspired AI algorithms, encompassing spiking neural networks (SNNs), stochastic SNNs, ultra-LIF SNNs, and oscillatory neural networks (ONNs), together with biologically grounded learning rules such as dopaminergic reinforcement learning and neuromodulated synaptic plasticity.
+
 
 ### 2. Topological and Geometric Deep Learning for Neuroscience. 
 Development and application of geometric, topological, and manifold-aware learning architectures (graph, hypergraph, simplicial, and sheaf neural networks, and manifold-valued models, adapted to the structure of neural and connectomic data). The goal is to build models whose inductive biases respect the higher-order, geometric, and topological nature of brain data, improving both predictive performance and interpretability relative to generic deep learning approaches.
+
 
 ### 3. Brain Connectivity Inference, Graph Theoretic and Topological Data Analysis of Brain Networks.
 Brain connectivity inference methods; directed connectivity inference in the frequency domain: multivariate autoregressive methods (partial directed coherence (PDC) and variants, directed transfer function (DTF), and related estimators) recover directed connectivity networks from neural signals (EEG, fMRI, MEG). From these inferred networks, we go beyond pairwise graphs toward multiway, multilayer, temporal, and dynamic representations that capture directed, higher-order neural interactions through hypergraphs, simplicial complexes, and digraph-based complexes. We characterize these structures through discrete geometry (Ollivier–Ricci and Forman–Ricci curvatures, finite geometries, and combinatorial invariants) and through graph theoretic and topological data analysis (persistent homology, filtration-based descriptors, Q-analysis, and network summary statistics), quantifying structural and functional organization across scales.
