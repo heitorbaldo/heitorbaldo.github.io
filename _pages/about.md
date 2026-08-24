@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en), and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I was a visiting postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en) in Germany, and I am currently a postdoctoral fellow at the [University of São Paulo](https://www5.usp.br/). My background spans mathematics, applied mathematics, and computer science, with an emphasis on mathematical neuroscience and artificial intelligence. 
+Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en), and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I was a visiting postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en) in Germany, and I am currently a postdoctoral fellow at the [University of São Paulo](https://www5.usp.br/). I'm also an affiliate researcher at the [IGDORE Institute](https://igdore.org/). My background spans mathematics, applied mathematics, and computer science, with an emphasis on computational / mathematical neuroscience and artificial intelligence. 
 
 <!-- <div class="notice--info"> <!-- class="notice--warning" -->
 <!-- You may find a short version of my CV <a href=""><strong>here</strong></a>.-->
@@ -45,17 +45,7 @@ Analysis of neural population activity through low-dimensional neural manifolds 
 ### 5. Brain Coding and Decoding
 Reconstruction of stimuli, intentions, and cognitive states from measured neural activity, encompassing both the encoding problem (how sensory and cognitive variables are represented) and the decoding problem (recovering those variables from recorded signals). This integrates the representational insights of the algebraic, manifold, and topological directions above with statistical and machine learning decoders, with relevance to brain-computer interfaces (BCIs) and neurotechnology.
 
-
-## MS and PhD Thesis
-
-* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](../files/BaldoHeitor_PhD_Thesis.pdf) [Doctoral Dissertation, University of São Paulo] https://doi.org/10.11606/T.95.2024.tde-04072024-124243
-
-* **Baldo, H.** (2016). [Álgebras de Clifford e de Cayley-Dickson](../files/BaldoHeitor_MP.pdf). [Master's Thesis, University of Campinas] https://doi.org/10.47749/T/UNICAMP.2016.971225
-
-
-## Other Information
-
-* I'm an affiliate researcher at the [Institute for Globally Distributed Open Research and Education](https://igdore.org/) (IGDORE).
+<br>
 
 
 
