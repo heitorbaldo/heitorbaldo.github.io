@@ -12,17 +12,9 @@ redirect_from:
 
 Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and Computational Mathematics, both from the [University of Campinas](https://www.unicamp.br/en), and a PhD in Bioinformatics (Mathematical Neuroscience) from the [University of São Paulo](https://www5.usp.br/). I was a visiting postdoctoral researcher at [Leipzig University](https://www.uni-leipzig.de/en) in Germany, and I am currently a postdoctoral fellow at the [University of São Paulo](https://www5.usp.br/). I'm also an affiliate researcher at the [IGDORE Institute](https://igdore.org/). My background spans mathematics, applied mathematics, and computer science, with an emphasis on computational / mathematical neuroscience and artificial intelligence. 
 
-<!-- <div class="notice--info"> <!-- class="notice--warning" -->
-<!-- You may find a short version of my CV <a href=""><strong>here</strong></a>.-->
-<!-- </div>-->
-
-<div class="notice--info"> <!-- class="notice--warning" -->
-<b>Update</b>
-<br>
-<ul>
-  <li> A preprint version of our newest manuscript is now available <a href="https://arxiv.org/abs/2605.14178">here</a>.</li>
-</ul>
-</div>
+<!-- CV and Resume -->
+<a href="/files/CV_Heitor_Baldo.pdf" style="display:inline-block;background:#ffffff;color:#131a26;border:1px solid #c7ced8;border-radius:9px;padding:15px 28px;font-size:13.5px;letter-spacing:0.13em;text-decoration:none;white-space:nowrap;">Academic Curriculum Vitae</a>
+<a href="/files/Resume_Heitor_Baldo.pdf" style="display:inline-block;background:#ffffff;color:#131a26;border:1px solid #c7ced8;border-radius:9px;padding:15px 28px;font-size:13.5px;letter-spacing:0.13em;text-decoration:none;white-space:nowrap;">Résumé (two-pages)</a>
 
 
 ## Research Interests
