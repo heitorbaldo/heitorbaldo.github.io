@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-## Python Packages
+## Open-Source Software
 
 * [DigplexQ](https://github.com/heitorbaldo/DigplexQ) - DigplexQ is an open-source Python package for performing computations on digraph-based complexes, including directed flag complexes and path complexes. It is designed as an adjacency-matrix-centered package, allowing users to perform all computations directly from an adjacency matrix without requiring explicit construction of the underlying complex. The package implements a range of quantitative methods for analyzing digraph-based complexes, primarily based on concepts from directed Q-analysis. At present, the implementation focuses exclusively on lower q-adjacency. Current version: v0.0.7 (PyPi). Soon available for Julia (DigplexQ.jl). <font style="font-size:14px">Tools: <font style="color: #0f766e">NumPy, SciPy, NetworkX, Giotto-tda, Persim, hodgelaplacians.</font></font>
 <hr>
