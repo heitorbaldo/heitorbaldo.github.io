@@ -20,8 +20,8 @@ author_profile: true
 * **Baldo, H.**, Topologia Algébrica Computacional: Uma Introdução (draft in Portuguese) - in preparation.
 
 
-## Master's and PhD Thesis
+## Theses
 
-* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](../files/BaldoHeitor_PhD_Thesis.pdf) [Doctoral Thesis, University of São Paulo]. https://doi.org/10.48550/arXiv.2409.09862
+* **Baldo, H.** (2024). [Towards a Quantitative Theory of Digraph-Based Complexes and its Applications in Brain Network Analysis](../files/BaldoHeitor_PhD_Thesis.pdf). Ph.D. Thesis, University of São Paulo. https://doi.org/10.48550/arXiv.2409.09862
 
-* **Baldo, H.** (2016). [Álgebras de Clifford e de Cayley-Dickson](../files/BaldoHeitor_MP.pdf). [Master's Thesis, University of Campinas] https://doi.org/10.47749/T/UNICAMP.2016.971225
+* **Baldo, H.** (2016). [Álgebras de Clifford e de Cayley-Dickson](../files/BaldoHeitor_MP.pdf). M.Sc. Thesis, University of Campinas. https://doi.org/10.47749/T/UNICAMP.2016.971225
