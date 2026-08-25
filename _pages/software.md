@@ -21,7 +21,6 @@ author_profile: true
 ## Jupyter Notebooks
 
 * [Notes on Topological Deep Learning](https://github.com/heitorbaldo/Notes-Topological-Deep-Learning) - Jupyter notebooks implementing neural network models for classifying random graphs and hypergraphs based on their underlying generative models.  <font style="font-size:14px">Tools: <font style="color: #0f766e">NumPy, NetworkX, Matplotlib, PyTorch, PyTorch Geometric, scikit-learn.</font>
-<hr>
 * [Notes on Artificial Intelligence in Neuroimaging Analysis](https://github.com/heitorbaldo/Notes-Artificial-Intelligence-Neuroimaging) - A collection of Jupyter notebooks providing algorithms and deep learning models for the analysis of fMRI, EEG, and MEG data. <font style="font-size:14px">Tools: <font style="color: #0f766e">NumPy, Matplotlib, Seaborn, PyTorch, scikit-learn, Nilearn, NiBabel.</font>
 
 
