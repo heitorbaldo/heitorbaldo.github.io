@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+---
+
 ## Technical Lectures
 
 * **Graph Cellular Automata and Beyond: Applications in Network Neuroscience**. Institute of Mathematics and Statistics - USP, 2022 ([slides](../files/workshop_GCA_beyond.pdf), [abstract](../files/abstract_gca_beyond.pdf)).
