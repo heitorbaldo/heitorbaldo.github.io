@@ -5,10 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+---
+
 ## University of São Paulo (USP) 
 
 * **Multivariate Data Analysis** - MAE0330 (Spring 2021).\
 Teaching Assistant. ([program](../files/program_MDA_spring_2021.pdf), [Notes on Sparse Multivariate Methods](../files/Sparse_Multivariate_Methods.pdf)) 
+
+---
 
 ## University of Campinas (UNICAMP) 
 
