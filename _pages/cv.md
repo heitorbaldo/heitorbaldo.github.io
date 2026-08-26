@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+---
+
 {% include base_path %}
 
 My academic CV may be found [here](/files/CV_Heitor_Baldo.pdf), my CV Lattes [here](http://lattes.cnpq.br/9560123815894005), and my résumé [here](/files/Resume_Heitor_Baldo.pdf). 
