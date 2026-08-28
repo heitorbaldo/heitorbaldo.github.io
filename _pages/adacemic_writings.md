@@ -9,7 +9,7 @@ author_profile: true
 
 ## Research Notes and Unpublished Manuscripts
 
-<font style="font-size:15px; color:#64748b;">These notes and manuscripts haven't been peer-reviewed and may contain errors. Please feel free to let me know if you spot any.</font>
+<font style="font-size:15px; color:#64748b;">These notes and manuscripts are not peer-reviewed and may contain errors. Please feel free to let me know if you spot any.</font>
 
 * Baldo, H. (2023). [Notes on Simplicial Neural Networks for Path Complexes](../files/SNN_Paths.pdf) (research notes).
 * Baldo, H. (2022). [Notes on Collapses and Persistent Path Homology](../files/notes_collapses_path_hom.pdf) (unpublished manuscript).
