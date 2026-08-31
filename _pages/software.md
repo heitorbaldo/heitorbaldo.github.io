@@ -129,7 +129,7 @@ Detection, classification, and quantification of temporal hypergraph motifs (THM
 
 
 <span class="hb-head">**[GeometrySpectralEvo](https://github.com/heitorbaldo/GeometrySpectralEvo)** <span class="hb-track hb-research">Research</span><span class="hb-status">In development</span></span>
-Earlier-stage package - This package implements methods to treat the empirical spectral density (ESD) of a normalised graph Laplacian as a point in Wasserstein space, and a temporal graph as a curve in this space. It also implements geometric descriptors to analyze the geometry of graph spectral evolution over time.
+Earlier-stage package - This package implements methods to treat the empirical spectral density (ESD) of a normalized graph Laplacian as a point in Wasserstein space, and a temporal graph as a curve in this space. It also implements geometric descriptors to analyze the geometry of graph spectral evolution over time.
 <span class="hb-meta">[GitHub](https://github.com/heitorbaldo/GeometrySpectralEvo) · NumPy · NetworkX.</span>
 
 
