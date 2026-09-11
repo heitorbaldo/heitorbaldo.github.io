@@ -111,12 +111,12 @@ author_profile: true
 
 <span class="hb-head">**[DigplexQ](https://github.com/heitorbaldo/DigplexQ)** <span class="hb-track hb-research">Research</span></span>
 DigplexQ is an open-source Python package for performing computations on digraph-based complexes, including directed flag complexes and path complexes. It is designed as an adjacency-matrix-centered package, allowing users to perform all computations directly from an adjacency matrix without requiring explicit construction of the underlying complex. The package implements a range of quantitative methods for analyzing digraph-based complexes, primarily based on concepts from directed Q-analysis. At present, the implementation focuses exclusively on lower q-adjacency.
-<span class="hb-meta">PyPI v0.0.7 · [GitHub](https://github.com/heitorbaldo/DigplexQ) · [Related work](/publications/) · Tools: NumPy · NetworkX · SciPy · NetworkX · Giotto-tda · Persim · hodgelaplacians.</span>
+<span class="hb-meta">PyPI v0.0.7 · [GitHub](https://github.com/heitorbaldo/DigplexQ) · NumPy · NetworkX · SciPy · NetworkX · Giotto-tda · Persim · hodgelaplacians.</span>
 <span class="hb-meta">**DigplexQ.jl** - Julia version, in development. Docker image planned.</span>
 
 <span class="hb-head">**[PyPDC](https://github.com/heitorbaldo/PyPDC)** <span class="hb-track hb-research">Research</span></span>
 PyPDC is an open-source Python package for estimating Partial Directed Coherence (PDC) and Directed Coherence (DC) from multivariate time-series data, with a particular focus on brain connectivity analysis. It implements asymptotic PDC estimation, allowing researchers to characterize directional information flow between pairs of brain regions or recording channels in the frequency domain.
-<span class="hb-meta">PyPI v0.0.8 · [GitHub](https://github.com/heitorbaldo/PyPDC) · [Related work](/publications/) · NumPy · SciPy · Matplotlib.</span>
+<span class="hb-meta">PyPI v0.0.8 · [GitHub](https://github.com/heitorbaldo/PyPDC) · NumPy · SciPy · Matplotlib.</span>
 
 <span class="hb-head">**[PyTropical](https://github.com/heitorbaldo/PyTropical)** <span class="hb-track hb-research">Research</span></span>
 PyTropical is an open-source Python package for tropical mathematics, providing computational tools for working with tropical algebra. The package currently focuses on max-plus and min-plus algebras, implementing fundamental tropical operations such as tropical addition, multiplication, and exponentiation.
@@ -142,10 +142,10 @@ Earlier-stage package - This package implements methods to treat the empirical s
 
 <span class="hb-head">**[Notes on Topological Deep Learning](https://github.com/heitorbaldo/Notes-Topological-Deep-Learning)** <span class="hb-track hb-research">Research</span></span>
 Jupyter notebooks implementing neural network models for classifying random graphs and hypergraphs based on their underlying generative models.
-<span class="hb-meta">[GitHub](https://github.com/heitorbaldo/Notes-Topological-Deep-Learning) · Tools: NumPy · NetworkX · Matplotlib · PyTorch · PyTorch Geometric · scikit-learn.</span>
+<span class="hb-meta">[GitHub](https://github.com/heitorbaldo/Notes-Topological-Deep-Learning) · NumPy · NetworkX · Matplotlib · PyTorch · PyTorch Geometric · scikit-learn.</span>
 
 
 <span class="hb-head">**[Notes on Artificial Intelligence in Neuroimaging Analysis](https://github.com/heitorbaldo/Notes-Artificial-Intelligence-Neuroimaging)** <span class="hb-track hb-research">Research</span></span>
 A collection of Jupyter notebooks providing algorithms and deep learning models for the analysis of fMRI, EEG, and MEG data.
-<span class="hb-meta">[GitHub](https://github.com/heitorbaldo/Notes-Artificial-Intelligence-Neuroimaging) · Tools: NumPy · Matplotlib · Seaborn · PyTorch · scikit-learn · Nilearn · NiBabel.</span>
+<span class="hb-meta">[GitHub](https://github.com/heitorbaldo/Notes-Artificial-Intelligence-Neuroimaging) · NumPy · Matplotlib · Seaborn · PyTorch · scikit-learn · Nilearn · NiBabel.</span>
 
