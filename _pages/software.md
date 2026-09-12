@@ -107,7 +107,7 @@ author_profile: true
 
 ## Research Software
 
-<font style="font-size:15px; color:#64748b;">Open-source research packages implementing published or in-progress methodology. Released first.</font>
+<font style="font-size:15px; color:#64748b;">Open-source research packages implementing published or in-progress methodology.</font>
 
 <span class="hb-head">**[DigplexQ](https://github.com/heitorbaldo/DigplexQ)** <span class="hb-track hb-research">Research</span></span>
 DigplexQ is an open-source Python package for performing computations on digraph-based complexes, including directed flag complexes and path complexes. It is designed as an adjacency-matrix-centered package, allowing users to perform all computations directly from an adjacency matrix without requiring explicit construction of the underlying complex. The package implements a range of quantitative methods for analyzing digraph-based complexes, primarily based on concepts from directed Q-analysis. At present, the implementation focuses exclusively on lower q-adjacency.
@@ -138,7 +138,7 @@ Earlier-stage package - This package implements methods to treat the empirical s
 
 ## Notes and Notebooks
 
-<font style="font-size:15px; color:#64748b;">Notes and exploratory codes (not packaged for reuse).</font>
+<font style="font-size:15px; color:#64748b;">Notes and exploratory codes.</font>
 
 <span class="hb-head">**[Notes on Topological Deep Learning](https://github.com/heitorbaldo/Notes-Topological-Deep-Learning)** <span class="hb-track hb-research">Research</span></span>
 Jupyter notebooks implementing neural network models for classifying random graphs and hypergraphs based on their underlying generative models.
