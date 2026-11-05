@@ -123,8 +123,8 @@ PyTropical is an open-source Python package for tropical mathematics, providing 
 <span class="hb-meta">PyPI v0.0.2 · [GitHub](https://github.com/heitorbaldo/PyTropical) · NumPy.</span>
 
 
-<span class="hb-head">**[TemporalHypermotifs](https://github.com/heitorbaldo/TemporalHypermotifs)** <span class="hb-track hb-research">Research</span></span>
-Detection, classification, and quantification of temporal hypergraph motifs (THMs). Implements measures at motif level, single-layer hypergraph level, and multilayer hypergraph level.
+<span class="hb-head">**[TemporalHypermotifs](https://github.com/heitorbaldo/TemporalHypermotifs)** <span class="hb-track hb-research">Research</span><span class="hb-status">In development</span></span>
+Earlier-stage package - TemporalHypermotifs is an open-source Python package for the detection, classification, and quantification of temporal hypergraph motifs (THMs). Implements measures at motif level, single-layer hypergraph level, and multilayer hypergraph level.
 <span class="hb-meta">[GitHub](https://github.com/heitorbaldo/TemporalHypermotifs) · NumPy · SciPy · NetworkX · HyperNetX · Numba-CUDA.</span>
 
 
