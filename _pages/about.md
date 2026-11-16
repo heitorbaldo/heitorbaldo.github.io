@@ -54,9 +54,10 @@ Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and
       </p>
     </details>
   <details style="border-top:1px solid #e9ecf1;">
-    <summary style="padding:12px 0;font-size:16px;line-height:1.5;color:#33404f;cursor:pointer;">Emergence in Cognitive Multi-Agent Systems.</summary>
+    <summary style="padding:12px 0;font-size:16px;line-height:1.5;color:#33404f;cursor:pointer;">Cognitive Multi-Agent Systems and Artificial Societies.</summary>
     <p style="margin:0 0 14px;padding-right:8px;font-size:14.5px;line-height:1.6;color:#5c6673;">
-     Investigating how complex collective behaviors arise from interactions among cognitive agents with different cognitive architectures and environments, including MARL-trained, ethology-based animal agents; LLM-based multi-agent systems of human behavior; and LLM-based opinion dynamics systems. A central focus is the emergence and evolution of interaction-network topology, using graph theory and applied algebraic topology to identify structural signatures of phenomena such as cooperation, hierarchy, social organization, consensus, polarization, and fragmentation, and to understand the feedback between cognitive architectures, environments, network topology, and collective behavior.
+    • <b>Emergence and Network Topology in Cognitive Multi-Agent Systems:</b> Investigating how complex collective behaviors arise from interactions among cognitive agents with different cognitive architectures and environments, including MARL-trained, ethology-based animal agents; LLM-based multi-agent systems of human behavior; and LLM-based opinion dynamics systems. A central focus is the emergence and evolution of interaction-network topology, using graph theory and applied algebraic topology to identify structural signatures of phenomena such as cooperation, hierarchy, social organization, consensus, polarization, and fragmentation, and to understand the feedback between cognitive architectures, environments, network topology, and collective behavior.<br>
+      • <b>Artificial Societies:</b> Developing mathematical and computational frameworks for building and evaluating cognitive ABM and LLM-based simulations of human societies.
     </p>
   </details>
   <p style="margin:20px 0 0; font-size:14px;letter-spacing:0.11em;">
