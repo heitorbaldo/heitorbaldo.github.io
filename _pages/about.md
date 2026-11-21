@@ -43,7 +43,7 @@ Hi! My name is Heitor Baldo. I hold a BS in Mathematics and an MS in Applied and
     <details style="border-top:1px solid #e9ecf1;">
       <summary style="padding:12px 0;font-size:16px;line-height:1.5;color:#33404f;cursor:pointer;">Brain-Inspired Artificial Intelligence and Embodied Agents.</summary>
       <p style="margin:0 0 14px;padding-right:8px;font-size:14.5px;line-height:1.6;color:#5c6673;">
-        • <b>Neuromorphic Networks and Biologically Grounded Learning</b>: Development of brain-inspired algorithms, encompassing spiking neural networks (SNNs), stochastic SNNs, ultra-LIF SNNs, and oscillatory neural networks (ONNs), together with biologically grounded learning rules such as dopaminergic reinforcement learning and neuromodulated synaptic plasticity.
+        • <b>Neuromorphic Networks and Biologically Grounded Learning</b>: Development of brain-inspired algorithms, encompassing spiking neural networks (SNNs), stochastic SNNs, ultra-LIF SNNs, and oscillatory neural networks (ONNs), together with biologically grounded learning rules such as dopaminergic reinforcement learning and neuromodulated synaptic plasticity.<br>
         • <b>Generative Behavior for Embodied Agents:</b> Investigating embodied agents that produce behavior by sampling from learned generative models, such as diffusion and flow-matching policies, world models, and active inference, together with their brain-inspired counterparts, including hippocampal generative replay, connectome-constrained controllers, and neuromechanical digital twins. 
       </p>
     </details>
